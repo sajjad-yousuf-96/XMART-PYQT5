@@ -1,4 +1,4 @@
-# Python-pyqt5
+# XMART-PYQT5
 Python Pyqt5 biling and inventory system with sqlite
 ####   SIGN UP OR LOGIN
 USERNAME: sajjad
